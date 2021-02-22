@@ -1,0 +1,15 @@
+[submodule "ros_basics_control"]
+	path = ros_basics_control
+	url = https://github.com/epfl-mobots/ros_basics_control.git
+[submodule "ros_basics_exercise"]
+	path = ros_basics_exercise
+	url = https://github.com/epfl-mobots/ros_basics_exercise.git
+[submodule "ros_basics_models"]
+	path = ros_basics_models
+	url = https://github.com/epfl-mobots/ros_basics_models.git
+[submodule "ros_basics_msgs"]
+	path = ros_basics_msgs
+	url = https://github.com/epfl-mobots/ros_basics_msgs.git
+[submodule "ros_basics_vision"]
+	path = ros_basics_vision
+	url = git@github.com:epfl-mobots/ros_basics_vision.git
